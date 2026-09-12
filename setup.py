@@ -14,7 +14,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='Emiliano',
-    maintainer_email='emiliano.bucam@gmail.com',
+    maintainer_email='276363240+emilianobucam-commits@users.noreply.github.com',
     description='TODO: Package description',
     license='Nodo ROS 2 que detecta fugas de agua',
     extras_require={
